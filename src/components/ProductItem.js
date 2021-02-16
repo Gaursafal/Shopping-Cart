@@ -1,4 +1,5 @@
 import React from 'react';
+import styles from "../Css/ProductItem.module.css"
 
 export default class ProductItem extends React.Component {
 	constructor(props) {
@@ -28,7 +29,7 @@ export default class ProductItem extends React.Component {
 		const { product } = this.props;
 		return (
 			<div style={{ float : "left" }}>
-				<div className="card" style={{ marginBottom: "10px", background: "teal", width : "350px"}}>
+				<div className="card" className = {styles.card}>
 					<div className="card-body float-left">
 						<h4 className="card-title">{product.name}</h4>
 						<img width="300px" src={product.image} alt="" />
