@@ -34,7 +34,7 @@ export default class ProductItem extends React.Component {
 						<h4 className="card-title">{product.name}</h4>
 						<img width="300px" src={product.image} alt="" />
 							<p className="card-text">{product.description}</p>
-							<h4 className="card-text">Price: ${product.price}</h4>
+							<h4 className="card-text">Price: ₹{product.price}</h4>
 							<span className="card-text">Available Quantity:{product.available_quantity}</span>
 
 							{product.available_quantity >= 1 ?

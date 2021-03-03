@@ -48,7 +48,7 @@ export default class Cart extends React.Component {
 					products.map((product, index) => <CartItem product={product} remove={this.removeFromCart} key={index}/>)
 				}
 				<hr/>
-				{ products.length ? <div><h4><small>Total Amount:</small><span className="float-right text-primary">${total}</span></h4><hr/></div>: ''}
+				{ products.length ? <div><h4><small>Total Amount:</small><span className="float-right text-primary"> ₹{total}</span></h4><hr/></div>: ''}
 
 				{ !products.length ? <h3 className="text-warning">No item on the cart</h3>: ''}
 				<Link to="/checkout"><button className="btn btn-success float-right">Checkout</button></Link>
