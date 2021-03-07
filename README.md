@@ -50,5 +50,5 @@ In the project directory, tried to Demonstrated a website is a one-stop-shop for
 ### Acknowledgments
 
 <div>
-  We take all the responsiblity for every single line of code. The design inspired from VentureBeat.com
+  We take all the responsiblity for every single line of code.
 </div>
