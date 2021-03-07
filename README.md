@@ -32,6 +32,8 @@ In the project directory, tried to Demonstrated a website is a one-stop-shop for
 - Axios
 - React router dom
 - Styled components
+- Express-js
+- Cors
 
 ## Product Page
 
