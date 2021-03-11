@@ -55,5 +55,5 @@ In the project directory, cloned a website which is a one-stop-shop for all your
 ### Acknowledgments
 
 <div>
-  We take all the responsiblity for every single line of code.
+  I take all the responsiblity for every single line of code.
 </div>
