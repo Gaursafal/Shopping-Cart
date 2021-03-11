@@ -47,6 +47,11 @@ In the project directory, cloned a website which is a one-stop-shop for all your
 
 ![ScreenShots](https://github.com/Gaursafal/Shopping-Cart/blob/main/public/checkout.png)
 
+
+## Contributors
+
+<h3>Safal Singh Gaur</h3> 👨‍ - <a href="https://github.com/Gaursafal">Safal Singh</a>
+
 ### Acknowledgments
 
 <div>
