@@ -2,7 +2,7 @@
 
 <div>
   <h3>
-In the project directory, tried to Demonstrated a website is a one-stop-shop for all your fashion and lifestyle needs,
+In the project directory, cloned a website which is a one-stop-shop for all your fashion and lifestyle needs,
   </h3>
 </div>
 
